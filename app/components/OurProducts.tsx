@@ -1,5 +1,5 @@
 "use client";
-import { Icon } from "@iconify/react";
+
 import Image from "next/image";
 import { MdHeight } from "react-icons/md";
 
