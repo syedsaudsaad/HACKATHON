@@ -37,7 +37,7 @@ const RoomInspiration = () => {
               <h3 className="text-[28px] font-semibold text-Gray1">
                 Inner Peace
               </h3>
-              <button><FaArrowRight /></button>
+              <button></button>
             </div>
             <div className="p-[12px] bg-primary w-[48px] h-[48px] absolute bottom-6 right-24">
              
