@@ -40,10 +40,7 @@ const RoomInspiration = () => {
               <button><FaArrowRight /></button>
             </div>
             <div className="p-[12px] bg-primary w-[48px] h-[48px] absolute bottom-6 right-24">
-              <Icon
-                icon="solar:arrow-right-outline"
-                className="text-white w-6 h-6"
-              />
+             
             </div>
           </div>
 
@@ -58,7 +55,7 @@ const RoomInspiration = () => {
                   width={900} height={100}></Image>
                   
               </div>
-              <IoIosArrowDropright />
+ 
               <div className="w-fit h-[450px] overflow-hidden">
                 
                 <Image src="/images/p15.png"
