@@ -1,8 +1,5 @@
 "use client";
 
-import Image from "next/image";
-import { MdHeight } from "react-icons/md";
-
 const products = [
   {
     id: 1,
@@ -115,17 +112,7 @@ export default function OurProducts() {
                   <button className="text-[16px] font-medium text-primary bg-white px-[52px] py-[12px]">
                     Add to Cart
                   </button>
-                  <div className="flex gap-4 text-white text-sm mt-2">
-                    <button className="flex items-center gap-1 text-[16px] font-semibold">
-                      <Icon icon="gridicons:share" className="" /> Share
-                    </button>
-                    <button className="flex items-center gap-1 text-[16px] font-semibold">
-                      <Icon icon="fluent:arrow-swap-28-regular" className="" /> Compare
-                    </button>
-                    <button className="flex items-center gap-1 text-[16px] font-semibold">
-                      <Icon icon="mingcute:heart-line" className="" /> Like
-                    </button>
-                  </div>
+                 
                 </div>
               </div>
 
