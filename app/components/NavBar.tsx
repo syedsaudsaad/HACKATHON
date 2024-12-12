@@ -88,18 +88,6 @@ export default function NavBar() {
               className="w-7 h-7 text-black"
             />
           </Link>
-          <Link href="#">
-            <Icon icon="si:search-line" className="w-7 h-7 text-black" />
-          </Link>
-          <Link href="#">
-            <Icon icon="solar:heart-linear" className="w-7 h-7 text-black" />
-          </Link>
-          <Link href="#">
-            <Icon
-              icon="streamline:shopping-cart-2"
-              className="w-7 h-7 text-black"
-            />
-          </Link>
         </div>
       </header>
     </div>
