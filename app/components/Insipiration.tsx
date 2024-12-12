@@ -1,8 +1,5 @@
 "use client";
-import { Icon } from "@iconify/react";
 import Image from "next/image";
-import { FaArrowRight } from "react-icons/fa";
-import { IoIosArrowDropright } from "react-icons/io";
 const RoomInspiration = () => {
   return (
     <div className="bg-[#fdf7f1] py-12">
