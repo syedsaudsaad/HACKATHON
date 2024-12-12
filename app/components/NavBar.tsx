@@ -80,15 +80,7 @@ export default function NavBar() {
           </ul>
         </nav>
 
-        {/* Icons Section */}
-        <div className="hidden md:flex items-center gap-[45px]">
-          <Link href="#">
-            <Icon
-              icon="mdi:account-alert-outline"
-              className="w-7 h-7 text-black"
-            />
-          </Link>
-        </div>
+    
       </header>
     </div>
   )
